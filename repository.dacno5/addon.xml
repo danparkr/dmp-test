@@ -1,4 +1,4 @@
-e?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.dacno5" name="dacno5 Repository" version="1" provider-name="dan.parkr">
     <extension point="xbmc.addon.repository" name="dacno5 Repository">
         <dir>
